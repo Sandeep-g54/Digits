@@ -1,5 +1,4 @@
-Digits recognition using python is the project in which the hand wirtten digits are recognised. 
-# MNIST Handwritten Digit Classifier
+ # MNIST Handwritten Digit Classifier
 
 A simple Deep Learning project that trains a Neural Network on the MNIST dataset and uses it to predict custom handwritten digits from images.
 
